@@ -1,6 +1,6 @@
 ---
 title: "Coding PKD Capstone"
-author: "Antonius Aditya Rizky Wijaya"
+author: "Antonius Aditya Rizky"
 date: "2025-04-20"
 output:
   html_document:
